@@ -56,7 +56,7 @@ pre {
 }
 /* primeira imagem */
 #primeiro { 
-    background-image:url(../background001.jpg);
+    background-image:url(background001.jpg);
     background-position: center right;
 }
 
