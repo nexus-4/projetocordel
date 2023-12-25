@@ -56,13 +56,13 @@ pre {
 }
 /* primeira imagem */
 #primeiro { 
-    background-image:url(../pacote-d012/imagens/background001.jpg);
+    background-image:url(/imagens/background001.jpg);
     background-position: center right;
 }
 
 /* estilo segundo imagem */
 #segundo {
-    background-image: url(../pacote-d012/imagens/background002.jpg);
+    background-image: url(/imagens/background002.jpg);
     background-position: center right;
     background-color: rgba(84, 84, 84, 0.2);
 }
